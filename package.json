@@ -1,0 +1,15 @@
+{
+  "name": "stabilizer",
+  "version": "0.0.1",
+  "author": "Bertrand Zanni <zanni.bertrand@gmail.com>",
+  "description": "NodeJs camera stabilizer using OSC data flow and GPIO actioner",
+  "dependencies" : {
+    "node-osc"   :  "*",
+    "osc-min"    :  "*",
+    "optimist"   :  "*",
+    "events"     :  "*"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
